@@ -6,6 +6,7 @@ con = mysql.connector.connect(host='localhost',database='mysql',user ='root',pas
 #execute query
 cur.execute(sql)
 con.close()
+
 #create database TABLE
 sql = """CREATE TABLE EMPLOYEEZ(
         FIRST_NAME CHAR(20) NOT NULL,
