@@ -12,7 +12,7 @@ This repo looks at the basics on Python Using SQL DataBase
  * Install [dotnet framework](https://dotnet.microsoft.com/en-us/download) OR enable it if you donot have it already
 
 
-# Covered Include;
+# Covered Topics Include
 * Basic Commands in Python_SQL
 * DataTypes in SQL 
 * Mysql Operations with Python
