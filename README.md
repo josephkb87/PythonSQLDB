@@ -6,17 +6,17 @@ This Repo IS NOT a Matlab_Octave Repo, for the one that has worked examples go t
 
 This repo looks at the basics on Python Using SQL DataBase 
 
-#  Requirements;
- Install [SSMS](https://docs.microsoft.com/en-us/sql/ssms) if you donot have it already
- Install [My SQL Workbench](https://dev.mysql.com/downloads/workbench/) if you donot have it already
- Install [dotnet framework](https://dotnet.microsoft.com/en-us/download) OR enable it if you donot have it already
+#  Requirements
+ * Install [SSMS](https://docs.microsoft.com/en-us/sql/ssms) if you donot have it already
+ * Install [My SQL Workbench](https://dev.mysql.com/downloads/workbench/) if you donot have it already
+ * Install [dotnet framework](https://dotnet.microsoft.com/en-us/download) OR enable it if you donot have it already
 
 
 # Covered Include;
-- Basic Commands in Python_SQL
-- DataTypes in SQL 
-- Mysql Operations with Python
-- MySQL Stored Procedures
-- Creating Excel Reports for Data( pythonExcel,OneRowExcelReport,AlldatabseDataReport,StylingExcelReport)
+* Basic Commands in Python_SQL
+* DataTypes in SQL 
+* Mysql Operations with Python
+* MySQL Stored Procedures
+* Creating Excel Reports for Data( pythonExcel,OneRowExcelReport,AlldatabseDataReport,StylingExcelReport)
 
  
