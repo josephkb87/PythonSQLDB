@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../OOP Python Basics/.idea/OOP Python Basics.iml" filepath="$PROJECT_DIR$/../../OOP Python Basics/.idea/OOP Python Basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PySQLDB.iml" filepath="$PROJECT_DIR$/.idea/PySQLDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../PythonBasics/.idea/PythonBasics.iml" filepath="$PROJECT_DIR$/../../PythonBasics/.idea/PythonBasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../PythonProjects/.idea/PythonProjects.iml" filepath="$PROJECT_DIR$/../../PythonProjects/.idea/PythonProjects.iml" />
     </modules>
   </component>
 </project>

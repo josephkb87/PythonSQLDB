@@ -8,7 +8,7 @@ cur = con.cursor()
 
 cur.execute('CREATE DATABASE studentz1')
 
-#print a statement
+#print to output statement
 print('Database Created Successfully')
 
 
