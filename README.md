@@ -1,10 +1,10 @@
 # PySQLDB
+We look at the basics on Python Using SQL DataBase.
 
-This Repo IS NOT a Matlab_Jupyter_NoteBooks_Octave Repo, for the one that has worked examples go to the [JuMatOct](https://github.com/josephkb87/JuMatOct) 
+The Repo IS NOT a Matlab_Jupyter_NoteBooks_Octave Repo, for the Matlab_Jupyter_NoteBooks_Octave with worked examples go [here](https://github.com/josephkb87/JuMatOct) 
 
-This Repo IS NOT a Matlab_Octave Repo, for the one that has worked examples go to the [Matlab_Octave](https://github.com/josephkb87/Matlab_Octave) 
-
-This repo looks at the basics on Python Using SQL DataBase 
+The Repo IS NOT a Matlab_Octave Repo, the one Matlab_Octave with worked examples go  [here](https://github.com/josephkb87/Matlab_Octave) 
+as
 
 #  Requirements
  * Install [SSMS](https://docs.microsoft.com/en-us/sql/ssms) if you donot have it already
